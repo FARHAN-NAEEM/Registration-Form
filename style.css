@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+    
+}
+
+.formbody {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    
+
+}
+
+form{
+    width: 45%;
+}
+
