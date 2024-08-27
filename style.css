@@ -1,6 +1,8 @@
 body{
     background-color: grey;
     
+    
+    
 }
 
 .formbody {
@@ -13,5 +15,13 @@ body{
 
 form{
     width: 45%;
+}
+
+#lastName{
+    margin-left: 80px;
+}
+
+#mothersName{
+    margin-left: 80px;
 }
 
